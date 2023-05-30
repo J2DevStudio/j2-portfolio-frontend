@@ -19,6 +19,15 @@
   align-items: flex-start;
   flex-direction: column;
   margin: 2rem;
+  text-align: center;
+
+  p {
+    text-align: left;
+  }
+
+  h2 {
+    text-align: center;
+  }
 
   img {
     width: 100%;
